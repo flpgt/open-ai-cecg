@@ -11,5 +11,7 @@ public class ChatStreamComponent {
     private Integer maxToken;
 
     @Value("${open.max-tokens:500")
-    private Integer
+    private Integer MaxToken;
+
+
 }
